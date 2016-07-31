@@ -1,0 +1,368 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"redi",
+				"redirectUri"
+			],
+			[
+				"re",
+				"redirectUri"
+			],
+			[
+				"cli",
+				"clientId"
+			],
+			[
+				"res",
+				"resData2"
+			],
+			[
+				"resDa",
+				"resData1"
+			],
+			[
+				"rq",
+				"requestData"
+			],
+			[
+				"reque",
+				"requestData"
+			],
+			[
+				"sensor",
+				"sensorname"
+			],
+			[
+				"test",
+				"test_data2"
+			],
+			[
+				"all",
+				"allClients"
+			],
+			[
+				"polling",
+				"pollingLoop"
+			],
+			[
+				"P",
+				"POLLING_INTERVAL"
+			],
+			[
+				"poll",
+				"pollingLoop"
+			],
+			[
+				"lis",
+				"listen"
+			],
+			[
+				"data_",
+				"data_date"
+			],
+			[
+				"temp",
+				"temp_count"
+			],
+			[
+				"hum",
+				"hum_count"
+			],
+			[
+				"humidi",
+				"humidity_array"
+			],
+			[
+				"fet",
+				"fetchDataFromRedis"
+			],
+			[
+				"te",
+				"temperature_array"
+			],
+			[
+				"num",
+				"numOfList"
+			],
+			[
+				"fu",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "inden",
+		"selected_items":
+		[
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/youngjoosuh/Documents/dev/opentutorials_egoing/index.html",
+		"/Users/youngjoosuh/Programming/Sublime/example.html",
+		"/Users/youngjoosuh/Programming/test.html",
+		"/Users/youngjoosuh/matnam_android/app/src/main/java/com/soma/second/matnam/ui/LoginActivity.java",
+		"/Users/youngjoosuh/router/main.js",
+		"/Users/youngjoosuh/Documents/workspace/test/src/test/a.java",
+		"/Users/youngjoosuh/Desktop/aaa/Collector/Collector.js",
+		"/Users/youngjoosuh/study/Submit_SourceCode/websvr/app.js",
+		"/Users/youngjoosuh/study/Submit_SourceCode/Collector/Collector.js",
+		"/Users/youngjoosuh/study/Submit_SourceCode/Gateway/sensor_publisher2.js",
+		"/Users/youngjoosuh/study/Submit_SourceCode/Gateway/sensor_publisher.js",
+		"/Users/youngjoosuh/Documents/SourceCode/Gateway/sensor_publisher.js",
+		"/Users/youngjoosuh/Documents/SourceCode/websvr/views/pages/current3.ejs",
+		"/Users/youngjoosuh/Documents/SourceCode/Collector/Collector.js",
+		"/Users/youngjoosuh/Documents/SourceCode/websvr/app.js",
+		"/Users/youngjoosuh/Documents/SourceCode/Gateway/sensor_publisher2.js",
+		"/Users/youngjoosuh/Documents/SourceCode/websvr/views/pages/current2.ejs",
+		"/Users/youngjoosuh/Documents/SourceCode/websvr/views/pages/dashbrd.ejs",
+		"/Users/youngjoosuh/Documents/menuModi_websvr/views/pages/current3.ejs",
+		"/Users/youngjoosuh/Documents/menuModi_websvr/views/pages/current2.ejs",
+		"/Users/youngjoosuh/Documents/Gateway/sensor_publisher2.js",
+		"/Users/youngjoosuh/Documents/menuModi_websvr/app.js",
+		"/Users/youngjoosuh/Documents/Collector/Collector.js",
+		"/Users/youngjoosuh/Documents/cur2_websvr/app.js",
+		"/Users/youngjoosuh/Documents/cur2_websvr/views/pages/highchart2.ejs",
+		"/Users/youngjoosuh/Documents/cur2_websvr/views/pages/current2.ejs",
+		"/Users/youngjoosuh/Documents/Gateway/sensor_publisher.js",
+		"/Users/youngjoosuh/Documents/websvr_many/app.js",
+		"/Users/youngjoosuh/Documents/t_websvr/views/pages/currenttt.ejs",
+		"/Users/youngjoosuh/nodejs/mentor_websvr/atemp.html",
+		"/Users/youngjoosuh/study/Collector/mqtt_subscriber.js",
+		"/Users/youngjoosuh/nodejs/mentor_websvr/views/pages/index.ejs",
+		"/Users/youngjoosuh/nodejs/mentor_websvr/views/partials/menu.ejs",
+		"/Users/youngjoosuh/nodejs/mentor_websvr/views/pages/current.ejs",
+		"/Users/youngjoosuh/nodejs/practice_websvr/app.js",
+		"/Users/youngjoosuh/nodejs/20150818_websvr/views/pages/current2.ejs",
+		"/Users/youngjoosuh/nodejs/20150818_websvr/app.js",
+		"/Users/youngjoosuh/nodejs/express_ejs/cli.html",
+		"/Users/youngjoosuh/study1/websvr/app.js",
+		"/Users/youngjoosuh/study/websvr/app.js",
+		"/Users/youngjoosuh/study/websvr/views/pages/highchart2.ejs",
+		"/Users/youngjoosuh/study1/websvr/views/pages/highchart3.ejs",
+		"/Users/youngjoosuh/nodejs/express_ejs/serv.js",
+		"/Users/youngjoosuh/nodejs/express_ejs/views/humidity.ejs",
+		"/Users/youngjoosuh/nodejs/express_ejs/appp.js",
+		"/Users/youngjoosuh/nodejs/express_ejs/client_sub.js",
+		"/Users/youngjoosuh/study1/websvr/views/pages/highchart1.ejs",
+		"/Users/youngjoosuh/nodejs/express_ejs/new_app.js",
+		"/Users/youngjoosuh/study1/websvr/public/highchart1.html",
+		"/Users/youngjoosuh/study1/websvr/public/highchart3.html",
+		"/Users/youngjoosuh/nodejs/highchart_example.html",
+		"/Users/youngjoosuh/nodejs/express_ejs/a.js",
+		"/Users/youngjoosuh/nodejs/express_ejs/apps.js",
+		"/Users/youngjoosuh/study1/websvr/public/highchart2.html",
+		"/Users/youngjoosuh/study1/websvr/views/pages/highchart2.ejs",
+		"/Users/youngjoosuh/study1/websvr/routes/data2.js",
+		"/Users/youngjoosuh/study1/websvr/routes/data1.js",
+		"/Users/youngjoosuh/nodejs/column-data.csv",
+		"/Users/youngjoosuh/nodejs/express_ejs/views/test_hum.ejs",
+		"/Users/youngjoosuh/nodejs/express_ejs/views/test_hum.js",
+		"/Users/youngjoosuh/nodejs/express_ejs/views/sensor.ejs",
+		"/Users/youngjoosuh/nodejs/express_ejs/server.js",
+		"/Users/youngjoosuh/nodejs/express_ejs/views/temperature.ejs",
+		"/Users/youngjoosuh/nodejs/express_ejs/views/abc.ejs",
+		"/Users/youngjoosuh/study/websvr/views/pages/index.ejs",
+		"/Users/youngjoosuh/nodejs/express_ejs/client.html",
+		"/Users/youngjoosuh/nodejs/express_ejs/temp.js",
+		"/Users/youngjoosuh/nodejs/express_ejs/index2.html",
+		"/Users/youngjoosuh/nodejs/express_ejs/app.js",
+		"/Users/youngjoosuh/nodejs/express_ejs/new_ard_serial.js",
+		"/Users/youngjoosuh/nodejs/express_ejs/new_client_sub.js",
+		"/Users/youngjoosuh/nodejs/express_ejs/a.html",
+		"/Users/youngjoosuh/Downloads/app.js",
+		"/Users/youngjoosuh/nodejs/express_ejs/new_client_pub.js",
+		"/Users/youngjoosuh/nodejs/express_ejs/ard_serial.js",
+		"/Users/youngjoosuh/nodejs/Practice/package.json",
+		"/Users/youngjoosuh/nodejs/Practice/views/about.html",
+		"/Users/youngjoosuh/nodejs/Practice/views/index.html",
+		"/Users/youngjoosuh/nodejs/temp/ejsPage.ejs",
+		"/Users/youngjoosuh/nodejs/temp/join.ejs",
+		"/Users/youngjoosuh/nodejs/20150805/mosca-app.js",
+		"/Users/youngjoosuh/nodejs/20150805/client_pub.js",
+		"/Users/youngjoosuh/study1/index.js",
+		"/Users/youngjoosuh/nodejs/temp/server_ejs.js",
+		"/Users/youngjoosuh/nodejs/mqttcli_fire.js",
+		"/Users/youngjoosuh/nodejs/mqttcli.js",
+		"/Users/youngjoosuh/nodejs/express_ejs/views/index.ejs",
+		"/Users/youngjoosuh/nodejs/temp.js",
+		"/Volumes/Untitled/nodejs/study/nodejs/mqttcli3.js",
+		"/Volumes/Untitled/nodejs/study/nodejs/mqttcli2.js",
+		"/Volumes/Untitled/nodejs/redis/myredis.js",
+		"/Users/youngjoosuh/nodejs/buffer2.js",
+		"/Users/youngjoosuh/nodejs/buffer1.js",
+		"/Users/youngjoosuh/app.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" </",
+			".name",
+			".text",
+			"simplex",
+			"Client",
+			"Clientdatarequest",
+			"sensornames",
+			"sensors",
+			"'',",
+			"sensornames",
+			"_chart",
+			"io",
+			"jspanelContainer",
+			"last",
+			"connectionArr",
+			"last_count",
+			"http",
+			" %></"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
